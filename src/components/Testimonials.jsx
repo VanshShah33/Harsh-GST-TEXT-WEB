@@ -10,22 +10,22 @@ const SEED_REVIEWS = [
     rating: 5
   },
   {
-    name: 'Bhavik Patel',
-    role: 'Salaried Individual, Surat',
-    service: 'Income Tax Returns',
+    name: 'Bharat Kumavat',
+    role: 'Salaried Individual, Ahmedabad',
+    service: 'GST Registration & Income Tax Returns',
     quote: 'Highly recommend Harsh for ITR filing. He provided precise guidance and made the entire process clear and simple.',
     rating: 5
   },
   {
-    name: 'Hardik Shah',
-    role: 'Business Owner, Ahmedabad',
+    name: 'Dev Gupta',
+    role: 'Business Owner, Jaipur',
     service: 'TDS Returns',
     quote: 'Harsh is diligent and technically sound. He ensures our TDS compliance is always accurate and on time.',
     rating: 5
   },
   {
-    name: 'Rahul Patel',
-    role: 'Business Owner, Valsad',
+    name: 'Het Panchal',
+    role: 'Salaried Individual, Mahesana',
     service: 'MSME Registration',
     quote: 'Efficient and transparent service. My MSME registration was completed quickly without any hassle.',
     rating: 5
